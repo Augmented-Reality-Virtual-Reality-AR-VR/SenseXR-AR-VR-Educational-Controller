@@ -1,4 +1,4 @@
-# SenseXR AR VR Educational Controller
+# Sense XR AR VR Educational Controller
 
 <p align="justify">Educational controllers in the AR and VR space, like the potential "SenseXR AR VR Educational Controller," are instrumental tools that aim to enhance immersive learning experiences for students. These controllers typically leverage spatial tracking, haptic feedback, and intuitive controls to simulate a diverse range of scenarios, fostering engagement and interaction in educational content. Whether used for virtual science experiments, historical reconstructions, or language learning simulations, these controllers aim to provide a tangible and interactive dimension to the learning process, making education more captivating and effective.</p>
 
